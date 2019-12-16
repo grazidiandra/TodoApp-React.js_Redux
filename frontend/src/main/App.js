@@ -7,7 +7,7 @@ import Todo from '../todo/todo'
 import Menu from '../template/menu'
 
 export default props => (
-  <div>
+  <div className='container'>
     <Menu />
     <Todo />
   </div>
