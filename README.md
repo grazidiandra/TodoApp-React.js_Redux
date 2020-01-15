@@ -1,6 +1,6 @@
-## ToDo App - React.js + Redux
+## ToDo App 
 
-Aplicacão de estudar: ToDo 
+Aplicacão de estudar: ToDo usando React.js e Redux.
 
 ## TECNOLOGIAS
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
